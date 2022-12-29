@@ -1,4 +1,4 @@
-![Logo](https://shriproperty.com/images/logo/logo.png)
+
 
 # Shri Property
 
